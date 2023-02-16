@@ -18,4 +18,4 @@ You can then use the filtering table seen here to enter data such as: city, stat
 Overall, this website contains viable data to perform research one may need on UFO Sightings.
 However, I would say one drawback to this project is that there may be more data out there that isnt included in the data.js file we used to pull data from.
 
-I would also say that this website could be updated by including more filters that a user could search by.  It could also be updated by including images of each sighting if possible, to create more visually appealing results. 
+In order to further deveopment, I would say that this website could be updated by including more filters that a user could search by.  It could also be updated by including images of each sighting if possible, to create more visually appealing results. 
